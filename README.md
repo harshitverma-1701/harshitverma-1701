@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **In JavaScript, the code you write is never what gets executed, thanks to some magical browser transformation.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
